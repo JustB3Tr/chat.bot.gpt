@@ -1,0 +1,21 @@
+Python example:
+def add(a, b):
+    return a + b
+
+Python example:
+for i in range(5):
+    print(i)
+
+Python example:
+class Person:
+    def __init__(self, name):
+        self.name = name
+
+Shell example:
+ls -la
+
+Shell example:
+git status
+
+Shell example:
+pip install torch

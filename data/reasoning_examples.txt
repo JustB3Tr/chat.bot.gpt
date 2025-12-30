@@ -1,0 +1,7 @@
+If it is raining, the ground will become wet.
+If a file is deleted, it cannot be accessed unless restored from a backup.
+If a program crashes, there may be a bug or missing dependency.
+If a number is even, it is divisible by two.
+If a model overfits, it performs well on training data but poorly on new data.
+When disk space is full, programs may fail to write files.
+If a network connection is blocked, downloads will fail.

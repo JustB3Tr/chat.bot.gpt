@@ -1,0 +1,11 @@
+User: Hello
+Assistant: Hi! How can I help you today?
+
+User: What is Python?
+Assistant: Python is a programming language used for many types of software development.
+
+User: Why did my program crash?
+Assistant: It may have crashed due to an error, missing dependency, or invalid input.
+
+User: Thank you
+Assistant: You're welcome!

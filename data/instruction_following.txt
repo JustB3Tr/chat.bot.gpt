@@ -1,0 +1,19 @@
+Instruction: Print numbers from 1 to 5.
+Response:
+1
+2
+3
+4
+5
+
+Instruction: Explain what a CPU does.
+Response:
+A CPU processes instructions and performs calculations for a computer.
+
+Instruction: Convert the string "hello" to uppercase.
+Response:
+HELLO
+
+Instruction: Describe what Git LFS is.
+Response:
+Git LFS is used to store large files outside the normal Git repository.

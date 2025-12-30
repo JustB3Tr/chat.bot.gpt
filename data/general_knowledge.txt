@@ -1,0 +1,10 @@
+The Earth orbits the Sun once every 365 days.
+Water freezes at 0 degrees Celsius.
+The speed of light is approximately 299,792 kilometers per second.
+Python is a high-level programming language.
+Linux is an operating system kernel created by Linus Torvalds.
+Git is a version control system used to track changes in files.
+A CPU executes instructions from programs.
+RAM is temporary memory used by a computer.
+Neural networks are inspired by biological neurons.
+Machine learning models learn patterns from data.
